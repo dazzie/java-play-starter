@@ -1,4 +1,4 @@
-## Starter for Play with Java projects
+## Personal projects 
 
 This is a blank [Play framework](http://www.playframework.com) project that will connect to any [prismic.io](https://prismic.io) repository. It uses the prismic.io Java developement kit, and provide a few helpers to integrate with the Play framework.
 
